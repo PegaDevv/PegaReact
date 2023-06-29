@@ -7,7 +7,7 @@ export const loginBoxType = {
 
 export const endpoints = {
   // Change this URL if you want to point the React application at another Pega server.
-  PEGAURL: "https://softserve01.pegalabs.io/prweb",
+  PEGAURL: "https://softservee2ehc87.pegatsdemo.com/prweb",
 
   
 
